@@ -9,8 +9,7 @@ namespace Spg.KonzertBuchungssystem.Domain.Model
     public class Ticket
     {
         public int Id { get; set; }
-        public Band Band { get; set; } = default!;
-        public DateTime ConcertDateAndTime { get; set; }
-        public string Location { get; set; } = string.Empty;
+        public TicketCategory TicketCategory { get; set; } = default!;
+        // konzertkategorie, sitzplatzkategorie, klasse show, klasse category, klasse kalender
     }
 }

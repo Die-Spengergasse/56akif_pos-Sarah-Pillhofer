@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExProperties
 {
-    internal class Rechteck
+    public class Rechteck
     {
         private int _laenge;
         private int _breite;

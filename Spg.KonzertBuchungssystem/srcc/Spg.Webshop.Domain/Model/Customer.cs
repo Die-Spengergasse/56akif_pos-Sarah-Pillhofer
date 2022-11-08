@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Spg.KonzertBuchungssystem.Domain.Model
 {
     public enum Genders { Male,Female,Other}
+    
     public class Customer
     {
         public Genders Gender { get; set; }

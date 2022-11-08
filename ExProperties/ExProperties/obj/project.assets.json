@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pillh\\OneDrive\\Git\\ExProperties\\ExProperties\\ExProperties.csproj",
+      "projectUniqueName": "C:\\Users\\Pillh\\OneDrive\\Git\\56akif_pos-Sarah-Pillhofer\\ExProperties\\ExProperties\\ExProperties.csproj",
       "projectName": "ExProperties",
-      "projectPath": "C:\\Users\\Pillh\\OneDrive\\Git\\ExProperties\\ExProperties\\ExProperties.csproj",
+      "projectPath": "C:\\Users\\Pillh\\OneDrive\\Git\\56akif_pos-Sarah-Pillhofer\\ExProperties\\ExProperties\\ExProperties.csproj",
       "packagesPath": "C:\\Users\\Pillh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pillh\\OneDrive\\Git\\ExProperties\\ExProperties\\obj\\",
+      "outputPath": "C:\\Users\\Pillh\\OneDrive\\Git\\56akif_pos-Sarah-Pillhofer\\ExProperties\\ExProperties\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pillh\\AppData\\Roaming\\NuGet\\NuGet.Config",

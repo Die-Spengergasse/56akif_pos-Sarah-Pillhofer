@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExProperties
 {
-    internal class Lehrer
+    public class Lehrer
     {
         private decimal? _bruttoGehalt;
 
