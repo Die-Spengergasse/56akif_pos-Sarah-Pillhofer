@@ -1,0 +1,17 @@
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\bin\Debug\net6.0\Spg.CollectionsUebung.App.exe
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\bin\Debug\net6.0\Spg.CollectionsUebung.App.deps.json
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\bin\Debug\net6.0\Spg.CollectionsUebung.App.runtimeconfig.json
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\bin\Debug\net6.0\Spg.CollectionsUebung.App.dll
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\bin\Debug\net6.0\Spg.CollectionsUebung.App.pdb
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\Spg.CollectionsUebung.App.csproj.AssemblyReference.cache
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\Spg.CollectionsUebung.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\Spg.CollectionsUebung.App.AssemblyInfoInputs.cache
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\Spg.CollectionsUebung.App.AssemblyInfo.cs
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\Spg.CollectionsUebung.App.csproj.CoreCompileInputs.cache
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\Spg.CollectionsUebung.App.csproj.CopyComplete
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\Spg.CollectionsUebung.App.dll
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\refint\Spg.CollectionsUebung.App.dll
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\Spg.CollectionsUebung.App.pdb
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\Spg.CollectionsUebung.App.genruntimeconfig.cache
+C:\Users\Pillh\OneDrive\Git\Spg.CollectionsUebung\Spg.CollectionsUebung.App\obj\Debug\net6.0\ref\Spg.CollectionsUebung.App.dll
