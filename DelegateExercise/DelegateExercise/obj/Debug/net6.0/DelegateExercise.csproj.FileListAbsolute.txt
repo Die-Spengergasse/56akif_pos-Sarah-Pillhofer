@@ -1,0 +1,15 @@
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\bin\Debug\net6.0\DelegateExercise.exe
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\bin\Debug\net6.0\DelegateExercise.deps.json
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\bin\Debug\net6.0\DelegateExercise.runtimeconfig.json
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\bin\Debug\net6.0\DelegateExercise.dll
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\bin\Debug\net6.0\DelegateExercise.pdb
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\DelegateExercise.csproj.AssemblyReference.cache
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\DelegateExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\DelegateExercise.AssemblyInfoInputs.cache
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\DelegateExercise.AssemblyInfo.cs
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\DelegateExercise.csproj.CoreCompileInputs.cache
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\DelegateExercise.dll
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\refint\DelegateExercise.dll
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\DelegateExercise.pdb
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\DelegateExercise.genruntimeconfig.cache
+C:\Users\Pillh\OneDrive\Git\56akif_pos-Sarah-Pillhofer\DelegateExercise\DelegateExercise\obj\Debug\net6.0\ref\DelegateExercise.dll
