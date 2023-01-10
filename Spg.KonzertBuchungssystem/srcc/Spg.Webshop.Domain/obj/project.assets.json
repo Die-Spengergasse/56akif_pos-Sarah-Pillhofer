@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pillh\\OneDrive\\Git\\Spg.Webshop\\srcc\\Spg.Webshop.Domain\\Spg.Webshop.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Pillh\\OneDrive\\Git\\56akif_pos-Sarah-Pillhofer\\Spg.KonzertBuchungssystem\\srcc\\Spg.Webshop.Domain\\Spg.Webshop.Domain.csproj",
       "projectName": "Spg.Webshop.Domain",
-      "projectPath": "C:\\Users\\Pillh\\OneDrive\\Git\\Spg.Webshop\\srcc\\Spg.Webshop.Domain\\Spg.Webshop.Domain.csproj",
+      "projectPath": "C:\\Users\\Pillh\\OneDrive\\Git\\56akif_pos-Sarah-Pillhofer\\Spg.KonzertBuchungssystem\\srcc\\Spg.Webshop.Domain\\Spg.Webshop.Domain.csproj",
       "packagesPath": "C:\\Users\\Pillh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pillh\\OneDrive\\Git\\Spg.Webshop\\srcc\\Spg.Webshop.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Pillh\\OneDrive\\Git\\56akif_pos-Sarah-Pillhofer\\Spg.KonzertBuchungssystem\\srcc\\Spg.Webshop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pillh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

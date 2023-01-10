@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spg.Webshop.Domain", "srcc\Spg.Webshop.Domain\Spg.Webshop.Domain.csproj", "{6998B91C-454A-4907-96CC-634C1E246961}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spg.Webshop.Domain", "srcc\Spg.Webshop.Domain\Spg.Webshop.Domain.csproj", "{6998B91C-454A-4907-96CC-634C1E246961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spg.Konzertbuchungssystem_Application", "Spg.Konzertbuchungssystem_Application\Spg.Konzertbuchungssystem_Application.csproj", "{BC0AA6B5-704F-444B-9F47-77A86537EB7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spg.Konzertbuchungssystem_Infrastructure", "src\Spg.Konzertbuchungssystem_Infrastructure\Spg.Konzertbuchungssystem_Infrastructure.csproj", "{444275D2-E30A-4960-8253-674832409E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spg.Konzertbuchungssystem", "src\Spg.Konzertbuchungssystem\Spg.Konzertbuchungssystem.csproj", "{7FD9726A-2A9E-49E4-9BE8-372DB9D19A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spg.Konzertbuchungssystem_MvcFrontEnd", "src\Spg.Konzertbuchungssystem_MvcFrontEnd\Spg.Konzertbuchungssystem_MvcFrontEnd.csproj", "{A530EBEF-1973-482E-9BA8-C4268914E8F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{6998B91C-454A-4907-96CC-634C1E246961}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6998B91C-454A-4907-96CC-634C1E246961}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6998B91C-454A-4907-96CC-634C1E246961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0AA6B5-704F-444B-9F47-77A86537EB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0AA6B5-704F-444B-9F47-77A86537EB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0AA6B5-704F-444B-9F47-77A86537EB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0AA6B5-704F-444B-9F47-77A86537EB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444275D2-E30A-4960-8253-674832409E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444275D2-E30A-4960-8253-674832409E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444275D2-E30A-4960-8253-674832409E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444275D2-E30A-4960-8253-674832409E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD9726A-2A9E-49E4-9BE8-372DB9D19A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD9726A-2A9E-49E4-9BE8-372DB9D19A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD9726A-2A9E-49E4-9BE8-372DB9D19A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD9726A-2A9E-49E4-9BE8-372DB9D19A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A530EBEF-1973-482E-9BA8-C4268914E8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A530EBEF-1973-482E-9BA8-C4268914E8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A530EBEF-1973-482E-9BA8-C4268914E8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A530EBEF-1973-482E-9BA8-C4268914E8F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
